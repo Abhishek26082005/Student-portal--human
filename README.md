@@ -1,7 +1,7 @@
 # Faculty-Student Interaction Portal (Student Demo)
 
-Hi, this is a small project demo made by me during college. I made a basic chat demo using Socket.io and express.
-This is not a full production app, but enough for the viva/demo.
+Hi, this is a small project . I made a basic chat demo using Socket.io and express.
+This is not a full production app, but enough for the demo.
 
 ## How to run (quick)
 1. Backend:
@@ -17,4 +17,4 @@ This is not a full production app, but enough for the viva/demo.
 - If something fails, please check console for errors. I'm a student so small bugs possible :)
 
 Regards,
-[Your Name]
+abhishek
