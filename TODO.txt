@@ -1,0 +1,6 @@
+TODO (student notes):
+- [ ] Replace in-memory store with DB
+- [ ] Add auth & role based access
+- [ ] Create UI pages for assignments, forums
+- [ ] Add unit tests
+- [ ] Polish README and fix typos

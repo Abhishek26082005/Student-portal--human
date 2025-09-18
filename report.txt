@@ -1,0 +1,23 @@
+Project Report - Common Faculty-Student Interaction Portal
+Author: [Your Name]   Roll: [Your Roll No.]
+
+Abstract:
+This is a student-level demo of a portal to help faculty and students communicate, share files and chat.
+This repo is small demo for the purpose of project submission.
+
+What is done:
+- Basic chat using Socket.io (backend + frontend)
+- Simple in-memory message store (for demo)
+- Basic README and docs
+
+What is pending / TODO:
+- Add authentication (JWT)
+- Add DB (Postgres) and migrations
+- Implement file uploads to S3
+- Add assignment & submission flow
+- Add role-based dashboards & permissions
+- Improve frontend using React CRA or Vite
+- Add tests and CI
+
+Notes:
+I tried to keep code simple so it's understandable during viva. There may be some rough edges.
